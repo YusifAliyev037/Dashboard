@@ -1,0 +1,12 @@
+@import "./root.css";
+@import "./header.css";
+@import "./footer.css";
+
+body {
+    font-family: var(--fontMons);
+    background-color: var(--mainBodyColor) !important;
+
+    background: #fffaf5;
+
+    margin: auto;
+}
